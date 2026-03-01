@@ -1,0 +1,794 @@
+[
+    {
+        "Tehsil": "Chunian",
+        "month": 1.0,
+        "Avg_Rainfall_mm": 16.63746417305918,
+        "Recommendations": "Wheat not in season"
+    },
+    {
+        "Tehsil": "Chunian",
+        "month": 2.0,
+        "Avg_Rainfall_mm": 15.40774857433988,
+        "Recommendations": "Wheat not in season, Avoid sowing Sugarcane (low rainfall)"
+    },
+    {
+        "Tehsil": "Chunian",
+        "month": 3.0,
+        "Avg_Rainfall_mm": 20.201454323207823,
+        "Recommendations": "Wheat not in season, Sow Sugarcane, Sow Maize"
+    },
+    {
+        "Tehsil": "Chunian",
+        "month": 4.0,
+        "Avg_Rainfall_mm": 11.625238358886163,
+        "Recommendations": "Harvest Wheat, Sow Maize"
+    },
+    {
+        "Tehsil": "Chunian",
+        "month": 5.0,
+        "Avg_Rainfall_mm": 10.77436395858262,
+        "Recommendations": "Harvest Wheat"
+    },
+    {
+        "Tehsil": "Chunian",
+        "month": 6.0,
+        "Avg_Rainfall_mm": 50.1594030269719,
+        "Recommendations": "Wheat not in season, Sow Rice"
+    },
+    {
+        "Tehsil": "Chunian",
+        "month": 7.0,
+        "Avg_Rainfall_mm": 108.87963274003602,
+        "Recommendations": "Wheat not in season, Sow Rice"
+    },
+    {
+        "Tehsil": "Chunian",
+        "month": 8.0,
+        "Avg_Rainfall_mm": 90.13914521146053,
+        "Recommendations": "Wheat not in season, Harvest Maize"
+    },
+    {
+        "Tehsil": "Chunian",
+        "month": 9.0,
+        "Avg_Rainfall_mm": 51.80430934171507,
+        "Recommendations": "Wheat not in season, Harvest Rice, Harvest Maize"
+    },
+    {
+        "Tehsil": "Chunian",
+        "month": 10.0,
+        "Avg_Rainfall_mm": 5.823971085244802,
+        "Recommendations": "Sow Wheat, Harvest Rice, Rainfall very low, consider irrigation"
+    },
+    {
+        "Tehsil": "Chunian",
+        "month": 11.0,
+        "Avg_Rainfall_mm": 1.3173536783843014,
+        "Recommendations": "Sow Wheat, Harvest Sugarcane, Rainfall very low, consider irrigation"
+    },
+    {
+        "Tehsil": "Chunian",
+        "month": 12.0,
+        "Avg_Rainfall_mm": 2.422999470230923,
+        "Recommendations": "Sow Wheat, Harvest Sugarcane, Rainfall very low, consider irrigation"
+    },
+    {
+        "Tehsil": "Ferozewala",
+        "month": 1.0,
+        "Avg_Rainfall_mm": 25.50601056460861,
+        "Recommendations": "Wheat not in season"
+    },
+    {
+        "Tehsil": "Ferozewala",
+        "month": 2.0,
+        "Avg_Rainfall_mm": 28.799315547635146,
+        "Recommendations": "Wheat not in season, Sow Sugarcane"
+    },
+    {
+        "Tehsil": "Ferozewala",
+        "month": 3.0,
+        "Avg_Rainfall_mm": 35.30907994445162,
+        "Recommendations": "Wheat not in season, Sow Sugarcane, Sow Maize"
+    },
+    {
+        "Tehsil": "Ferozewala",
+        "month": 4.0,
+        "Avg_Rainfall_mm": 21.85297362787117,
+        "Recommendations": "Harvest Wheat, Sow Maize"
+    },
+    {
+        "Tehsil": "Ferozewala",
+        "month": 5.0,
+        "Avg_Rainfall_mm": 18.685713277872033,
+        "Recommendations": "Harvest Wheat"
+    },
+    {
+        "Tehsil": "Ferozewala",
+        "month": 6.0,
+        "Avg_Rainfall_mm": 56.26554566028036,
+        "Recommendations": "Wheat not in season, Sow Rice"
+    },
+    {
+        "Tehsil": "Ferozewala",
+        "month": 7.0,
+        "Avg_Rainfall_mm": 197.17563875765867,
+        "Recommendations": "Wheat not in season, Sow Rice, Heavy rainfall, avoid sowing certain crops"
+    },
+    {
+        "Tehsil": "Ferozewala",
+        "month": 8.0,
+        "Avg_Rainfall_mm": 158.46930368213773,
+        "Recommendations": "Wheat not in season, Harvest Maize, Heavy rainfall, avoid sowing certain crops"
+    },
+    {
+        "Tehsil": "Ferozewala",
+        "month": 9.0,
+        "Avg_Rainfall_mm": 69.53383358496637,
+        "Recommendations": "Wheat not in season, Harvest Rice, Harvest Maize"
+    },
+    {
+        "Tehsil": "Ferozewala",
+        "month": 10.0,
+        "Avg_Rainfall_mm": 12.460568325120258,
+        "Recommendations": "Sow Wheat, Harvest Rice"
+    },
+    {
+        "Tehsil": "Ferozewala",
+        "month": 11.0,
+        "Avg_Rainfall_mm": 3.750046901698394,
+        "Recommendations": "Sow Wheat, Harvest Sugarcane, Rainfall very low, consider irrigation"
+    },
+    {
+        "Tehsil": "Ferozewala",
+        "month": 12.0,
+        "Avg_Rainfall_mm": 7.626835619766317,
+        "Recommendations": "Sow Wheat, Harvest Sugarcane, Rainfall very low, consider irrigation"
+    },
+    {
+        "Tehsil": "Kasur",
+        "month": 1.0,
+        "Avg_Rainfall_mm": 19.486129390955078,
+        "Recommendations": "Wheat not in season"
+    },
+    {
+        "Tehsil": "Kasur",
+        "month": 2.0,
+        "Avg_Rainfall_mm": 20.777545387115477,
+        "Recommendations": "Wheat not in season, Sow Sugarcane"
+    },
+    {
+        "Tehsil": "Kasur",
+        "month": 3.0,
+        "Avg_Rainfall_mm": 24.57156223213642,
+        "Recommendations": "Wheat not in season, Sow Sugarcane, Sow Maize"
+    },
+    {
+        "Tehsil": "Kasur",
+        "month": 4.0,
+        "Avg_Rainfall_mm": 14.322280171211315,
+        "Recommendations": "Harvest Wheat, Sow Maize"
+    },
+    {
+        "Tehsil": "Kasur",
+        "month": 5.0,
+        "Avg_Rainfall_mm": 11.930000646993827,
+        "Recommendations": "Harvest Wheat"
+    },
+    {
+        "Tehsil": "Kasur",
+        "month": 6.0,
+        "Avg_Rainfall_mm": 52.53734926027425,
+        "Recommendations": "Wheat not in season, Sow Rice"
+    },
+    {
+        "Tehsil": "Kasur",
+        "month": 7.0,
+        "Avg_Rainfall_mm": 143.03154771158134,
+        "Recommendations": "Wheat not in season, Sow Rice"
+    },
+    {
+        "Tehsil": "Kasur",
+        "month": 8.0,
+        "Avg_Rainfall_mm": 110.27761341962507,
+        "Recommendations": "Wheat not in season, Harvest Maize"
+    },
+    {
+        "Tehsil": "Kasur",
+        "month": 9.0,
+        "Avg_Rainfall_mm": 53.35634450449119,
+        "Recommendations": "Wheat not in season, Harvest Rice, Harvest Maize"
+    },
+    {
+        "Tehsil": "Kasur",
+        "month": 10.0,
+        "Avg_Rainfall_mm": 6.264977224795933,
+        "Recommendations": "Sow Wheat, Harvest Rice, Rainfall very low, consider irrigation"
+    },
+    {
+        "Tehsil": "Kasur",
+        "month": 11.0,
+        "Avg_Rainfall_mm": 2.146820485303712,
+        "Recommendations": "Sow Wheat, Harvest Sugarcane, Rainfall very low, consider irrigation"
+    },
+    {
+        "Tehsil": "Kasur",
+        "month": 12.0,
+        "Avg_Rainfall_mm": 3.935882691237539,
+        "Recommendations": "Sow Wheat, Harvest Sugarcane, Rainfall very low, consider irrigation"
+    },
+    {
+        "Tehsil": "Lahore Cantt",
+        "month": 1.0,
+        "Avg_Rainfall_mm": 25.716778138262566,
+        "Recommendations": "Wheat not in season"
+    },
+    {
+        "Tehsil": "Lahore Cantt",
+        "month": 2.0,
+        "Avg_Rainfall_mm": 23.99873959670797,
+        "Recommendations": "Wheat not in season, Sow Sugarcane"
+    },
+    {
+        "Tehsil": "Lahore Cantt",
+        "month": 3.0,
+        "Avg_Rainfall_mm": 35.04404419508533,
+        "Recommendations": "Wheat not in season, Sow Sugarcane, Sow Maize"
+    },
+    {
+        "Tehsil": "Lahore Cantt",
+        "month": 4.0,
+        "Avg_Rainfall_mm": 17.788862462533938,
+        "Recommendations": "Harvest Wheat, Sow Maize"
+    },
+    {
+        "Tehsil": "Lahore Cantt",
+        "month": 5.0,
+        "Avg_Rainfall_mm": 18.592492634137344,
+        "Recommendations": "Harvest Wheat"
+    },
+    {
+        "Tehsil": "Lahore Cantt",
+        "month": 6.0,
+        "Avg_Rainfall_mm": 50.86497326262813,
+        "Recommendations": "Wheat not in season, Sow Rice"
+    },
+    {
+        "Tehsil": "Lahore Cantt",
+        "month": 7.0,
+        "Avg_Rainfall_mm": 210.45942197224946,
+        "Recommendations": "Wheat not in season, Sow Rice, Heavy rainfall, avoid sowing certain crops"
+    },
+    {
+        "Tehsil": "Lahore Cantt",
+        "month": 8.0,
+        "Avg_Rainfall_mm": 161.07222369472748,
+        "Recommendations": "Wheat not in season, Harvest Maize, Heavy rainfall, avoid sowing certain crops"
+    },
+    {
+        "Tehsil": "Lahore Cantt",
+        "month": 9.0,
+        "Avg_Rainfall_mm": 86.6327816165711,
+        "Recommendations": "Wheat not in season, Harvest Rice, Harvest Maize"
+    },
+    {
+        "Tehsil": "Lahore Cantt",
+        "month": 10.0,
+        "Avg_Rainfall_mm": 9.37197059857657,
+        "Recommendations": "Sow Wheat, Harvest Rice, Rainfall very low, consider irrigation"
+    },
+    {
+        "Tehsil": "Lahore Cantt",
+        "month": 11.0,
+        "Avg_Rainfall_mm": 3.0496746865855484,
+        "Recommendations": "Sow Wheat, Harvest Sugarcane, Rainfall very low, consider irrigation"
+    },
+    {
+        "Tehsil": "Lahore Cantt",
+        "month": 12.0,
+        "Avg_Rainfall_mm": 7.328713036251138,
+        "Recommendations": "Sow Wheat, Harvest Sugarcane, Rainfall very low, consider irrigation"
+    },
+    {
+        "Tehsil": "Lahore City",
+        "month": 1.0,
+        "Avg_Rainfall_mm": 20.748671562732095,
+        "Recommendations": "Wheat not in season"
+    },
+    {
+        "Tehsil": "Lahore City",
+        "month": 2.0,
+        "Avg_Rainfall_mm": 23.057575592892917,
+        "Recommendations": "Wheat not in season, Sow Sugarcane"
+    },
+    {
+        "Tehsil": "Lahore City",
+        "month": 3.0,
+        "Avg_Rainfall_mm": 34.67655013038134,
+        "Recommendations": "Wheat not in season, Sow Sugarcane, Sow Maize"
+    },
+    {
+        "Tehsil": "Lahore City",
+        "month": 4.0,
+        "Avg_Rainfall_mm": 17.756992193728216,
+        "Recommendations": "Harvest Wheat, Sow Maize"
+    },
+    {
+        "Tehsil": "Lahore City",
+        "month": 5.0,
+        "Avg_Rainfall_mm": 15.463609069578757,
+        "Recommendations": "Harvest Wheat"
+    },
+    {
+        "Tehsil": "Lahore City",
+        "month": 6.0,
+        "Avg_Rainfall_mm": 56.56736547450434,
+        "Recommendations": "Wheat not in season, Sow Rice"
+    },
+    {
+        "Tehsil": "Lahore City",
+        "month": 7.0,
+        "Avg_Rainfall_mm": 190.43543068739686,
+        "Recommendations": "Wheat not in season, Sow Rice, Heavy rainfall, avoid sowing certain crops"
+    },
+    {
+        "Tehsil": "Lahore City",
+        "month": 8.0,
+        "Avg_Rainfall_mm": 151.43838288169533,
+        "Recommendations": "Wheat not in season, Harvest Maize, Heavy rainfall, avoid sowing certain crops"
+    },
+    {
+        "Tehsil": "Lahore City",
+        "month": 9.0,
+        "Avg_Rainfall_mm": 66.46466656658349,
+        "Recommendations": "Wheat not in season, Harvest Rice, Harvest Maize"
+    },
+    {
+        "Tehsil": "Lahore City",
+        "month": 10.0,
+        "Avg_Rainfall_mm": 6.550329213266391,
+        "Recommendations": "Sow Wheat, Harvest Rice, Rainfall very low, consider irrigation"
+    },
+    {
+        "Tehsil": "Lahore City",
+        "month": 11.0,
+        "Avg_Rainfall_mm": 2.832234039778317,
+        "Recommendations": "Sow Wheat, Harvest Sugarcane, Rainfall very low, consider irrigation"
+    },
+    {
+        "Tehsil": "Lahore City",
+        "month": 12.0,
+        "Avg_Rainfall_mm": 5.528517363668016,
+        "Recommendations": "Sow Wheat, Harvest Sugarcane, Rainfall very low, consider irrigation"
+    },
+    {
+        "Tehsil": "Muridke",
+        "month": 1.0,
+        "Avg_Rainfall_mm": 33.6319657016558,
+        "Recommendations": "Wheat not in season"
+    },
+    {
+        "Tehsil": "Muridke",
+        "month": 2.0,
+        "Avg_Rainfall_mm": 36.077983622084936,
+        "Recommendations": "Wheat not in season, Sow Sugarcane"
+    },
+    {
+        "Tehsil": "Muridke",
+        "month": 3.0,
+        "Avg_Rainfall_mm": 36.01200789038254,
+        "Recommendations": "Wheat not in season, Sow Sugarcane, Sow Maize"
+    },
+    {
+        "Tehsil": "Muridke",
+        "month": 4.0,
+        "Avg_Rainfall_mm": 21.633012868926922,
+        "Recommendations": "Harvest Wheat, Sow Maize"
+    },
+    {
+        "Tehsil": "Muridke",
+        "month": 5.0,
+        "Avg_Rainfall_mm": 17.440608123214282,
+        "Recommendations": "Harvest Wheat"
+    },
+    {
+        "Tehsil": "Muridke",
+        "month": 6.0,
+        "Avg_Rainfall_mm": 60.03340592253416,
+        "Recommendations": "Wheat not in season, Sow Rice"
+    },
+    {
+        "Tehsil": "Muridke",
+        "month": 7.0,
+        "Avg_Rainfall_mm": 201.43928337004422,
+        "Recommendations": "Wheat not in season, Sow Rice, Heavy rainfall, avoid sowing certain crops"
+    },
+    {
+        "Tehsil": "Muridke",
+        "month": 8.0,
+        "Avg_Rainfall_mm": 156.1555024664995,
+        "Recommendations": "Wheat not in season, Harvest Maize, Heavy rainfall, avoid sowing certain crops"
+    },
+    {
+        "Tehsil": "Muridke",
+        "month": 9.0,
+        "Avg_Rainfall_mm": 67.64345149532178,
+        "Recommendations": "Wheat not in season, Harvest Rice, Harvest Maize"
+    },
+    {
+        "Tehsil": "Muridke",
+        "month": 10.0,
+        "Avg_Rainfall_mm": 17.36663833224036,
+        "Recommendations": "Sow Wheat, Harvest Rice"
+    },
+    {
+        "Tehsil": "Muridke",
+        "month": 11.0,
+        "Avg_Rainfall_mm": 4.6428823514088,
+        "Recommendations": "Sow Wheat, Harvest Sugarcane, Rainfall very low, consider irrigation"
+    },
+    {
+        "Tehsil": "Muridke",
+        "month": 12.0,
+        "Avg_Rainfall_mm": 9.415308644790352,
+        "Recommendations": "Sow Wheat, Harvest Sugarcane, Rainfall very low, consider irrigation"
+    },
+    {
+        "Tehsil": "Nankana Sahib",
+        "month": 1.0,
+        "Avg_Rainfall_mm": 18.112140448185524,
+        "Recommendations": "Wheat not in season"
+    },
+    {
+        "Tehsil": "Nankana Sahib",
+        "month": 2.0,
+        "Avg_Rainfall_mm": 23.050773153665272,
+        "Recommendations": "Wheat not in season, Sow Sugarcane"
+    },
+    {
+        "Tehsil": "Nankana Sahib",
+        "month": 3.0,
+        "Avg_Rainfall_mm": 36.02058912174155,
+        "Recommendations": "Wheat not in season, Sow Sugarcane, Sow Maize"
+    },
+    {
+        "Tehsil": "Nankana Sahib",
+        "month": 4.0,
+        "Avg_Rainfall_mm": 16.983885076288537,
+        "Recommendations": "Harvest Wheat, Sow Maize"
+    },
+    {
+        "Tehsil": "Nankana Sahib",
+        "month": 5.0,
+        "Avg_Rainfall_mm": 11.47093069140118,
+        "Recommendations": "Harvest Wheat"
+    },
+    {
+        "Tehsil": "Nankana Sahib",
+        "month": 6.0,
+        "Avg_Rainfall_mm": 59.272244926372395,
+        "Recommendations": "Wheat not in season, Sow Rice"
+    },
+    {
+        "Tehsil": "Nankana Sahib",
+        "month": 7.0,
+        "Avg_Rainfall_mm": 140.71639693206455,
+        "Recommendations": "Wheat not in season, Sow Rice"
+    },
+    {
+        "Tehsil": "Nankana Sahib",
+        "month": 8.0,
+        "Avg_Rainfall_mm": 95.94680961399024,
+        "Recommendations": "Wheat not in season, Harvest Maize"
+    },
+    {
+        "Tehsil": "Nankana Sahib",
+        "month": 9.0,
+        "Avg_Rainfall_mm": 53.61571945688227,
+        "Recommendations": "Wheat not in season, Harvest Rice, Harvest Maize"
+    },
+    {
+        "Tehsil": "Nankana Sahib",
+        "month": 10.0,
+        "Avg_Rainfall_mm": 6.129974817584095,
+        "Recommendations": "Sow Wheat, Harvest Rice, Rainfall very low, consider irrigation"
+    },
+    {
+        "Tehsil": "Nankana Sahib",
+        "month": 11.0,
+        "Avg_Rainfall_mm": 2.4272464374388547,
+        "Recommendations": "Sow Wheat, Harvest Sugarcane, Rainfall very low, consider irrigation"
+    },
+    {
+        "Tehsil": "Nankana Sahib",
+        "month": 12.0,
+        "Avg_Rainfall_mm": 3.2228574188580845,
+        "Recommendations": "Sow Wheat, Harvest Sugarcane, Rainfall very low, consider irrigation"
+    },
+    {
+        "Tehsil": "Pattoki",
+        "month": 1.0,
+        "Avg_Rainfall_mm": 15.520222467148328,
+        "Recommendations": "Wheat not in season"
+    },
+    {
+        "Tehsil": "Pattoki",
+        "month": 2.0,
+        "Avg_Rainfall_mm": 18.198086358991123,
+        "Recommendations": "Wheat not in season, Avoid sowing Sugarcane (low rainfall)"
+    },
+    {
+        "Tehsil": "Pattoki",
+        "month": 3.0,
+        "Avg_Rainfall_mm": 27.54781861275014,
+        "Recommendations": "Wheat not in season, Sow Sugarcane, Sow Maize"
+    },
+    {
+        "Tehsil": "Pattoki",
+        "month": 4.0,
+        "Avg_Rainfall_mm": 14.552380787815617,
+        "Recommendations": "Harvest Wheat, Sow Maize"
+    },
+    {
+        "Tehsil": "Pattoki",
+        "month": 5.0,
+        "Avg_Rainfall_mm": 11.624928894689058,
+        "Recommendations": "Harvest Wheat"
+    },
+    {
+        "Tehsil": "Pattoki",
+        "month": 6.0,
+        "Avg_Rainfall_mm": 56.643958949132276,
+        "Recommendations": "Wheat not in season, Sow Rice"
+    },
+    {
+        "Tehsil": "Pattoki",
+        "month": 7.0,
+        "Avg_Rainfall_mm": 133.67867781994917,
+        "Recommendations": "Wheat not in season, Sow Rice"
+    },
+    {
+        "Tehsil": "Pattoki",
+        "month": 8.0,
+        "Avg_Rainfall_mm": 104.57873442521034,
+        "Recommendations": "Wheat not in season, Harvest Maize"
+    },
+    {
+        "Tehsil": "Pattoki",
+        "month": 9.0,
+        "Avg_Rainfall_mm": 46.51225504581475,
+        "Recommendations": "Wheat not in season, Harvest Rice, Harvest Maize"
+    },
+    {
+        "Tehsil": "Pattoki",
+        "month": 10.0,
+        "Avg_Rainfall_mm": 6.26506637083109,
+        "Recommendations": "Sow Wheat, Harvest Rice, Rainfall very low, consider irrigation"
+    },
+    {
+        "Tehsil": "Pattoki",
+        "month": 11.0,
+        "Avg_Rainfall_mm": 1.9567342462739519,
+        "Recommendations": "Sow Wheat, Harvest Sugarcane, Rainfall very low, consider irrigation"
+    },
+    {
+        "Tehsil": "Pattoki",
+        "month": 12.0,
+        "Avg_Rainfall_mm": 2.6907177754128244,
+        "Recommendations": "Sow Wheat, Harvest Sugarcane, Rainfall very low, consider irrigation"
+    },
+    {
+        "Tehsil": "Safdarabad",
+        "month": 1.0,
+        "Avg_Rainfall_mm": 21.87751127644867,
+        "Recommendations": "Wheat not in season"
+    },
+    {
+        "Tehsil": "Safdarabad",
+        "month": 2.0,
+        "Avg_Rainfall_mm": 31.842791320096048,
+        "Recommendations": "Wheat not in season, Sow Sugarcane"
+    },
+    {
+        "Tehsil": "Safdarabad",
+        "month": 3.0,
+        "Avg_Rainfall_mm": 34.04981674901079,
+        "Recommendations": "Wheat not in season, Sow Sugarcane, Sow Maize"
+    },
+    {
+        "Tehsil": "Safdarabad",
+        "month": 4.0,
+        "Avg_Rainfall_mm": 22.421487078803846,
+        "Recommendations": "Harvest Wheat, Sow Maize"
+    },
+    {
+        "Tehsil": "Safdarabad",
+        "month": 5.0,
+        "Avg_Rainfall_mm": 16.11715454073357,
+        "Recommendations": "Harvest Wheat"
+    },
+    {
+        "Tehsil": "Safdarabad",
+        "month": 6.0,
+        "Avg_Rainfall_mm": 50.07957329715477,
+        "Recommendations": "Wheat not in season, Sow Rice"
+    },
+    {
+        "Tehsil": "Safdarabad",
+        "month": 7.0,
+        "Avg_Rainfall_mm": 126.81631244707287,
+        "Recommendations": "Wheat not in season, Sow Rice"
+    },
+    {
+        "Tehsil": "Safdarabad",
+        "month": 8.0,
+        "Avg_Rainfall_mm": 94.97324831154748,
+        "Recommendations": "Wheat not in season, Harvest Maize"
+    },
+    {
+        "Tehsil": "Safdarabad",
+        "month": 9.0,
+        "Avg_Rainfall_mm": 58.20021003060897,
+        "Recommendations": "Wheat not in season, Harvest Rice, Harvest Maize"
+    },
+    {
+        "Tehsil": "Safdarabad",
+        "month": 10.0,
+        "Avg_Rainfall_mm": 6.867417372379964,
+        "Recommendations": "Sow Wheat, Harvest Rice, Rainfall very low, consider irrigation"
+    },
+    {
+        "Tehsil": "Safdarabad",
+        "month": 11.0,
+        "Avg_Rainfall_mm": 2.6246265992471702,
+        "Recommendations": "Sow Wheat, Harvest Sugarcane, Rainfall very low, consider irrigation"
+    },
+    {
+        "Tehsil": "Safdarabad",
+        "month": 12.0,
+        "Avg_Rainfall_mm": 3.8542185745798188,
+        "Recommendations": "Sow Wheat, Harvest Sugarcane, Rainfall very low, consider irrigation"
+    },
+    {
+        "Tehsil": "Sangla Hill",
+        "month": 1.0,
+        "Avg_Rainfall_mm": 20.1297915341047,
+        "Recommendations": "Wheat not in season"
+    },
+    {
+        "Tehsil": "Sangla Hill",
+        "month": 2.0,
+        "Avg_Rainfall_mm": 28.914514079487795,
+        "Recommendations": "Wheat not in season, Sow Sugarcane"
+    },
+    {
+        "Tehsil": "Sangla Hill",
+        "month": 3.0,
+        "Avg_Rainfall_mm": 34.28009565544168,
+        "Recommendations": "Wheat not in season, Sow Sugarcane, Sow Maize"
+    },
+    {
+        "Tehsil": "Sangla Hill",
+        "month": 4.0,
+        "Avg_Rainfall_mm": 20.43879625482064,
+        "Recommendations": "Harvest Wheat, Sow Maize"
+    },
+    {
+        "Tehsil": "Sangla Hill",
+        "month": 5.0,
+        "Avg_Rainfall_mm": 17.251039961962693,
+        "Recommendations": "Harvest Wheat"
+    },
+    {
+        "Tehsil": "Sangla Hill",
+        "month": 6.0,
+        "Avg_Rainfall_mm": 50.03027925732873,
+        "Recommendations": "Wheat not in season, Sow Rice"
+    },
+    {
+        "Tehsil": "Sangla Hill",
+        "month": 7.0,
+        "Avg_Rainfall_mm": 112.87925938462223,
+        "Recommendations": "Wheat not in season, Sow Rice"
+    },
+    {
+        "Tehsil": "Sangla Hill",
+        "month": 8.0,
+        "Avg_Rainfall_mm": 84.9070073799252,
+        "Recommendations": "Wheat not in season, Harvest Maize"
+    },
+    {
+        "Tehsil": "Sangla Hill",
+        "month": 9.0,
+        "Avg_Rainfall_mm": 47.74827663633656,
+        "Recommendations": "Wheat not in season, Harvest Rice, Harvest Maize"
+    },
+    {
+        "Tehsil": "Sangla Hill",
+        "month": 10.0,
+        "Avg_Rainfall_mm": 6.475947711170565,
+        "Recommendations": "Sow Wheat, Harvest Rice, Rainfall very low, consider irrigation"
+    },
+    {
+        "Tehsil": "Sangla Hill",
+        "month": 11.0,
+        "Avg_Rainfall_mm": 2.3615964054944825,
+        "Recommendations": "Sow Wheat, Harvest Sugarcane, Rainfall very low, consider irrigation"
+    },
+    {
+        "Tehsil": "Sangla Hill",
+        "month": 12.0,
+        "Avg_Rainfall_mm": 3.4455043684424345,
+        "Recommendations": "Sow Wheat, Harvest Sugarcane, Rainfall very low, consider irrigation"
+    },
+    {
+        "Tehsil": "Sheikhupura",
+        "month": 1.0,
+        "Avg_Rainfall_mm": 23.457834695631163,
+        "Recommendations": "Wheat not in season"
+    },
+    {
+        "Tehsil": "Sheikhupura",
+        "month": 2.0,
+        "Avg_Rainfall_mm": 29.359187902466108,
+        "Recommendations": "Wheat not in season, Sow Sugarcane"
+    },
+    {
+        "Tehsil": "Sheikhupura",
+        "month": 3.0,
+        "Avg_Rainfall_mm": 34.31546390462267,
+        "Recommendations": "Wheat not in season, Sow Sugarcane, Sow Maize"
+    },
+    {
+        "Tehsil": "Sheikhupura",
+        "month": 4.0,
+        "Avg_Rainfall_mm": 21.66663201474787,
+        "Recommendations": "Harvest Wheat, Sow Maize"
+    },
+    {
+        "Tehsil": "Sheikhupura",
+        "month": 5.0,
+        "Avg_Rainfall_mm": 15.255970453974989,
+        "Recommendations": "Harvest Wheat"
+    },
+    {
+        "Tehsil": "Sheikhupura",
+        "month": 6.0,
+        "Avg_Rainfall_mm": 55.624512446899814,
+        "Recommendations": "Wheat not in season, Sow Rice"
+    },
+    {
+        "Tehsil": "Sheikhupura",
+        "month": 7.0,
+        "Avg_Rainfall_mm": 146.39653722079774,
+        "Recommendations": "Wheat not in season, Sow Rice"
+    },
+    {
+        "Tehsil": "Sheikhupura",
+        "month": 8.0,
+        "Avg_Rainfall_mm": 116.66832997820343,
+        "Recommendations": "Wheat not in season, Harvest Maize"
+    },
+    {
+        "Tehsil": "Sheikhupura",
+        "month": 9.0,
+        "Avg_Rainfall_mm": 62.42976834753023,
+        "Recommendations": "Wheat not in season, Harvest Rice, Harvest Maize"
+    },
+    {
+        "Tehsil": "Sheikhupura",
+        "month": 10.0,
+        "Avg_Rainfall_mm": 8.374950279218597,
+        "Recommendations": "Sow Wheat, Harvest Rice, Rainfall very low, consider irrigation"
+    },
+    {
+        "Tehsil": "Sheikhupura",
+        "month": 11.0,
+        "Avg_Rainfall_mm": 3.322236810155315,
+        "Recommendations": "Sow Wheat, Harvest Sugarcane, Rainfall very low, consider irrigation"
+    },
+    {
+        "Tehsil": "Sheikhupura",
+        "month": 12.0,
+        "Avg_Rainfall_mm": 4.578519079117055,
+        "Recommendations": "Sow Wheat, Harvest Sugarcane, Rainfall very low, consider irrigation"
+    }
+]
